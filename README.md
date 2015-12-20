@@ -13,7 +13,7 @@ Step by Step Guide to install Kafka and integration with Spark Streaming.
 
 3. Add the Kafka bin folder to PATH
 
-Ex:- 
+      Ex:- 
     export KAFKA_HOME=/opt/kafka_2.10-0.8.1.1
 
     export PATH=$PATH:$KAFKA_HOME/bin
